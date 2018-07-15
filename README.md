@@ -15,7 +15,7 @@ Roadmap:
 
 ---
 
-![Alt text](/src/images/daily-react-039-graph-plotting-app.png?raw=true "App UI")
+![Alt text](/src/images/daily-react-039-graph-plotting-app .png?raw=true "App UI")
 
 ---
 
