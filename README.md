@@ -1,6 +1,6 @@
 ## Daily-react-039-graph-plotting-app 
 
-> Challenge: create an app to plot math functions.
+> Challenge: create an app to plot the graph of a function.
 
 Work in progress: https://github.com/jamal7x7/daily-react-039-graph-plotting-app 
 
